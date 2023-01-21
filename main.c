@@ -1,1 +1,4 @@
-avx
+print ("Hello")
+int main 
+{
+}
